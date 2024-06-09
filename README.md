@@ -53,7 +53,7 @@ Currently, CogBench consists of 251 semantically-rich images with a total of 267
 ### Data Access 
 
 To get access to the data, you must **[Sign a Data Use Agreement (DUA)](https://docs.google.com/document/d/1Q9U-GqICkollhzCCK-rHEShqyk3C4ahS/edit?usp=sharing&ouid=111415446863054830984&rtpof=true&sd=true)**.
-Please read the DUA carefully, and send an email to xiujiesong@sjtu.edu.com with the message: "I consent to the Data Usage Agreement (DUA)." and attach the DUA including your handwritten signature in it.
+Please read the DUA carefully, and send an email to xiujiesong@sjtu.edu.cn with the message: "I consent to the Data Usage Agreement (DUA)." and attach the DUA including your handwritten signature in it.
 
 After obtaining the password, you can download our dataset from [Google Drive](https://docs.google.com/forms/d/e/1FAIpQLSeY-ChRRCPpXgm42FKXYsUrFXdf7d3ruCDilx1N_qIv-YpvYQ/viewform?usp=sf_link).
 
