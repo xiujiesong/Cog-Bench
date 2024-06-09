@@ -1,0 +1,5 @@
+Given a <DESCRIPTION> and some <EVENT RELATIONSHIP>s, please tell me whether this <DESCRIPTION> clearly depicts the cause-and-effect relationships between events. 
+
+The format of a <EVENT RELATIONSHIP> follows the structure "A1 + A2 + ... + An -> B", where A1, A2, ..., An and B are events. Events A1, A2, ..., An are the causes of event B, and event B is the result caused by events A1, A2, ..., An. The criteria for judgment lie in whether the <DESCRIPTION> mentions these events and clearly depicts the causal relationships between them. 
+
+Assign a score of 0 or 1 to each <EVENT RELATIONSHIP>, where 0 represents NO and 1 represents YES.

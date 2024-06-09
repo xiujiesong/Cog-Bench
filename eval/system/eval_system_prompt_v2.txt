@@ -1,0 +1,7 @@
+Given a <DESCRIPTION> and some <KEY POINT>s, please tell me if the <DESCRIPTION> explicitly presents the exact or similar semantics of each <KEY POINT>. The following points are required:
+
+1) Instead of reasoning about whether each <KEY POINT> is possibly correct based on the <DESCRIPTION>, you only need to determine whether the <DESCRIPTION> mentions the semantics in the <KEY POINT>. 
+2) Do not overlook the semantics in the <DESCRIPTION> that are semantically equivalent to the <KEY POINT> but expressed in different ways. For instance, if the <DESCRIPTION> mentions "The woman is playing with her son...", we can tell it successfully includes semantics in the <KEY POINT> "The woman is the mother of the boy." 
+3) If several possible scenarios are listed using 'or' at a <KEY POINT>, you only need to determine whether one of these scenarios is mentioned in the <DESCRIPTION>.
+
+Assign a score of 0 or 1 to each <KEY POINT>, where 0 represents NO and 1 represents YES.
