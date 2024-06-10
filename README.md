@@ -16,6 +16,8 @@ CogBench is proposed to evaluate high-level cognitive abilities of LVLMs using i
 
 <p align="center">
   <img src="figs/cookie_theft.png" alt="Cookie Theft" style="width:85%;">
+  <br>
+  <span style="display: block; text-align: center;">Figure 1: Cookie Theft picture description task.</span>
 </p>
 
 CogBench defines **eight reasoning capabilities** and consists of an **Image Description task** and a **Visual Question Answering task**. 
@@ -28,6 +30,8 @@ The VQA task features standard four-option Multiple-Choice Questions. The evalua
 
 <p align="center">
   <img src="figs/example.png" alt="CogBench example" style="width:80%;">
+  <br>
+  <span style="display: block; text-align: center;">Figure 2: An example from CogBench.</span>
 </p>
 
 ## Data
@@ -38,6 +42,8 @@ describe.
 
 <p align="center">
   <img src="figs/img_examples.png" alt="Images" style="width:95%;">
+  <br>
+  <span style="display: block; text-align: center;">Figure 3: The comparison between our images and those from the previous visual reasoning tasks.</span>
 </p>
 
 ### Statistics
