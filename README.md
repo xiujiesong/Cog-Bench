@@ -65,6 +65,26 @@ Please read the DUA carefully, and send an email to xiujiesong@sjtu.edu.cn with 
 
 After obtaining the password, you can download our dataset from [Google Drive](https://docs.google.com/forms/d/e/1FAIpQLSeY-ChRRCPpXgm42FKXYsUrFXdf7d3ruCDilx1N_qIv-YpvYQ/viewform?usp=sf_link).
 
+The annotated data for the Image Description task is organized in the following format.
+```
+{
+  "filename": {
+    "Image Name": "filename.jpg",
+    "Entities": ["..."],
+    "Special Time Reasoning": ["..."],
+    "Location Reasoning": ["..."],
+    "Character Reasoning": ["..."],
+    "Character Relationship Reasoning": ["..."],
+    "Event Reasoning": ["..."],
+    "Event Relationship Reasoning": ["..."],
+    "Next Moment Event Reasoning": ["..."],
+    "Mental State Reasoning": ["..."],
+    "Description": ["..."]
+  },
+  ...
+}
+```
+
 ## Evaluate your model on CogBench
 
 ### Image Description Task
