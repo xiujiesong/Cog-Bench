@@ -34,7 +34,7 @@ The VQA task features standard four-option Multiple-Choice Questions. The evalua
   <span style="display: block; text-align: center;">Figure 2: An example from CogBench.</span>
 </p>
 
-More samples are shown [here](samples/).
+Figure 2 shows an example from CogBench. More samples are shown [here](samples/).
 
 ## Data
 
