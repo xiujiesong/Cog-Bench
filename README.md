@@ -65,6 +65,8 @@ Please read the DUA carefully, and send an email to xiujiesong@sjtu.edu.cn with 
 
 After obtaining the password, you can download our dataset from [Google Drive](https://docs.google.com/forms/d/e/1FAIpQLSeY-ChRRCPpXgm42FKXYsUrFXdf7d3ruCDilx1N_qIv-YpvYQ/viewform?usp=sf_link).
 
+### Data Format
+
 The annotated data for the Image Description task is organized in the following format.
 ```
 {
