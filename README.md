@@ -109,7 +109,7 @@ The Multiple-Choice Questions for the VQA task are organized in the following fo
 
 **Step 0**: Infer your model on CogBench and save your model outputs in a jsonl file like this.
 
-```json
+```
 {"filename": "example1.jpg", "model_output": "There are three girls sitting on a bench talking together..."}
 {"filename": "example2.jpg", "model_output": "In a kitchen, a girl and her mother are putting cookies into the oven..."}
 ...
@@ -137,7 +137,7 @@ python eval/cognition_score.py  --eval_output_file_path "/path/to/eval_output_fi
 
 **Step 0**: Infer your model on CogBench and save your model outputs in a jsonl file like this.
 
-```json
+```
 {"question": "What is the boy's emotion?", "choice_a": "Sad.", "choice_b": "Angry.", "choice_c": "Scared.", "choice_d": "Happy.", "answer": "D", "img_id": "example1", "category": "mental", "response": "D. Happy."}
 {"question": "What is the setting of the activity in the image?", "choice_a": "In a restaurant.", "choice_b": "At a bakery shop.", "choice_c": "In a school cafeteria.", "choice_d": "In the kitchen.", "answer": "D", "img_id": "example2", "category": "location", "response": "D. In the kitchen."}
 ...
