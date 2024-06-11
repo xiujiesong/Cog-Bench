@@ -83,7 +83,25 @@ The annotated data for the Image Description task is organized in the following 
   },
   ...
 }
+
 ```
+The Multiple-Choice Questions for the VQA task are organized in the following format.
+```
+[
+    {
+        "question": "...",
+        "choice_a": "...",
+        "choice_b": "...",
+        "choice_c": "...",
+        "choice_d": "...",
+        "answer": "...",
+        "img_id": "...",
+        "category": "..."
+    },
+    ...
+]
+```
+
 
 ## Evaluate your model on CogBench
 
