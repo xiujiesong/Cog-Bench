@@ -1,0 +1,642 @@
+[
+    {
+        "question": "What time is it in the picture?",
+        "choice_a": "It's 2:25 pm.",
+        "choice_b": "It's 10:00 am.",
+        "choice_c": "It's 3:30 pm.",
+        "choice_d": "We do not know.",
+        "answer": "A",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "time"
+    },
+    {
+        "question": "Are the man and the woman in the car early or late for the football game?",
+        "choice_a": "The time of the football game is not clear.",
+        "choice_b": "They are late.",
+        "choice_c": "They are early.",
+        "choice_d": "They are on time.",
+        "answer": "B",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "time"
+    },
+    {
+        "question": "Why can we infer that it is afternoon in the picture?",
+        "choice_a": "The billboard shows that the football match is at 3pm.",
+        "choice_b": "The clock in the car shows it is 2:25 and it is daytime.",
+        "choice_c": "The clock in the car shows it is 4:25 and it is daytime.",
+        "choice_d": "The billboard shows that the football match is at 4pm.",
+        "answer": "B",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "time"
+    },
+    {
+        "question": "What can be inferred about the location in the image?",
+        "choice_a": "Near a police station.",
+        "choice_b": "In front of a cinema.",
+        "choice_c": "Near a shopping mall.",
+        "choice_d": "In front of a stadium.",
+        "answer": "D",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "location"
+    },
+    {
+        "question": "Why do you know they are by a stadium based on clues in the picture?",
+        "choice_a": "Because there are many supporters wearing team jerseys.",
+        "choice_b": "Because there is a billboard that says 'FOOTBALL 2PM'.",
+        "choice_c": "Because the building in front has the word \"Stadium\" written on it.",
+        "choice_d": "Because the building in front has a poster of a soccer player hanging on it.",
+        "answer": "B",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "location"
+    },
+    {
+        "question": "Who is the man standing by the roadside?",
+        "choice_a": "A football player.",
+        "choice_b": "An event organizer.",
+        "choice_c": "A volunteer.",
+        "choice_d": "A police officer.",
+        "answer": "D",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "character"
+    },
+    {
+        "question": "How can we determine that the man by the roadside is a police officer based on the image?",
+        "choice_a": "The man is directing traffic with a whistle.",
+        "choice_b": "He is carrying a police radio.",
+        "choice_c": "The man is wearing a police uniform.",
+        "choice_d": "There are police cars parked behind him.",
+        "answer": "C",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "character"
+    },
+    {
+        "question": "What is the most likely relationship between the two people sitting in the car?",
+        "choice_a": "They are a couple.",
+        "choice_b": "The man is a taxi driver and the woman is a customer.",
+        "choice_c": "They are mother and son.",
+        "choice_d": "They are teacher and student.",
+        "answer": "A",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "character_relationship"
+    },
+    {
+        "question": "What is happening in the picture?",
+        "choice_a": "A car crash.",
+        "choice_b": "The road ahead is under construction.",
+        "choice_c": "A parade.",
+        "choice_d": "A traffic jam.",
+        "answer": "D",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "event"
+    },
+    {
+        "question": "What are the man and woman most likely going to do?",
+        "choice_a": "They are going to watch a football game.",
+        "choice_b": "They are going to watch a movie.",
+        "choice_c": "They are going to have a picnic.",
+        "choice_d": "They are running late to a concert.",
+        "answer": "A",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "event"
+    },
+    {
+        "question": "What can we infer about the man and woman in the vehicle?",
+        "choice_a": "They are dressed for a formal event.",
+        "choice_b": "The woman is complaining to the man.",
+        "choice_c": "They are arguing.",
+        "choice_d": "They are laughing and chatting happily.",
+        "answer": "B",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "event"
+    },
+    {
+        "question": "What can we infer about the police officer?",
+        "choice_a": "He feels powerless about the current problem.",
+        "choice_b": "He is issuing a ticket to the man in front of him.",
+        "choice_c": "He is handling a traffic accident.",
+        "choice_d": "He has resolved the current issue.",
+        "answer": "A",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "event"
+    },
+    {
+        "question": "Why is the woman in the car complaining to the man?",
+        "choice_a": "She is upset because the man took a wrong turn.",
+        "choice_b": "She is upset because she missed the start of a match.",
+        "choice_c": "She is upset because they were issued a fine.",
+        "choice_d": "She is frustrated because their car broke down.",
+        "answer": "B",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "event_relationship"
+    },
+    {
+        "question": "Why are the man and the woman unable to enter the stadium on time?",
+        "choice_a": "They forgot the tickets at home and had to go back.",
+        "choice_b": "They left their house too late to arrive on time.",
+        "choice_c": "They are stuck in traffic.",
+        "choice_d": "The game has ended.",
+        "answer": "C",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "event_relationship"
+    },
+    {
+        "question": "Why is the man speaking with the police officer?",
+        "choice_a": "He violated traffic rules.",
+        "choice_b": "He is asking for directions.",
+        "choice_c": "He doesn't want to pay the parking ticket.",
+        "choice_d": "He is trying to convince the officer to ease the traffic.",
+        "answer": "D",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "event_relationship"
+    },
+    {
+        "question": "What is the emotional state of the man standing by the police officer?",
+        "choice_a": "He feels guilty.",
+        "choice_b": "He is excited.",
+        "choice_c": "He is angry.",
+        "choice_d": "He feels innocent.",
+        "answer": "C",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "mental"
+    },
+    {
+        "question": "What is the emotional state of the woman in the car?",
+        "choice_a": "She is excited.",
+        "choice_b": "She is disappointed.",
+        "choice_c": "She is calm.",
+        "choice_d": "She is relaxed.",
+        "answer": "B",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "mental"
+    },
+    {
+        "question": "What is the emotional state of the man in the car?",
+        "choice_a": "He is surprised.",
+        "choice_b": "He is excited.",
+        "choice_c": "He is angry.",
+        "choice_d": "He is calm.",
+        "answer": "D",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "mental"
+    },
+    {
+        "question": "Why is the man standing by the police officer angry?",
+        "choice_a": "He is arguing about a parking ticket.",
+        "choice_b": "He is very angry that the car behind hit his car.",
+        "choice_c": "He is angry because he is stuck in traffic.",
+        "choice_d": "He is upset that the police officer gave him a speeding ticket.",
+        "answer": "C",
+        "img_id": "490b03b120225834b6dcf4dace58f0cd",
+        "category": "mental"
+    },
+    {
+        "question": "Where are the people?",
+        "choice_a": "Kitchen.",
+        "choice_b": "Classroom.",
+        "choice_c": "Living room.",
+        "choice_d": "Cookie shop.",
+        "answer": "A",
+        "img_id": "cookie_theft",
+        "category": "location"
+    },
+    {
+        "question": "What is the relationship between the adult and the boy?",
+        "choice_a": "The adult is his mother.",
+        "choice_b": "The adult is his father.",
+        "choice_c": "The adult is his teacher.",
+        "choice_d": "We do not know.",
+        "answer": "A",
+        "img_id": "cookie_theft",
+        "category": "character_relationship"
+    },
+    {
+        "question": "What are the children doing?",
+        "choice_a": "Playing frisbee.",
+        "choice_b": "Cleaning cabinets in the kitchen.",
+        "choice_c": "Stealing cookies.",
+        "choice_d": "Playing with toys.",
+        "answer": "C",
+        "img_id": "cookie_theft",
+        "category": "event"
+    },
+    {
+        "question": "What is the girl doing?",
+        "choice_a": "Shushing the boy.",
+        "choice_b": "Pushing the boy.",
+        "choice_c": "Pulling the boy.",
+        "choice_d": "Supporting the boy.",
+        "answer": "A",
+        "img_id": "cookie_theft",
+        "category": "event"
+    },
+    {
+        "question": "What is the woman doing?",
+        "choice_a": "The woman is washing dishes.",
+        "choice_b": "The woman is holding a frisbee.",
+        "choice_c": "The woman is cooking.",
+        "choice_d": "The woman is holding a pie.",
+        "answer": "A",
+        "img_id": "cookie_theft",
+        "category": "event"
+    },
+    {
+        "question": "Why is the girl looking at the boy?",
+        "choice_a": "The boy is stealing cake for her.",
+        "choice_b": "The boy snatched away her box.",
+        "choice_c": "She wants some cookies.",
+        "choice_d": "She wants the frisbee in the boy's hand.",
+        "answer": "C",
+        "img_id": "cookie_theft",
+        "category": "event_relationship"
+    },
+    {
+        "question": "Why can children steal cookies?",
+        "choice_a": "Because their mother is cooking.",
+        "choice_b": "Because their mother is washing dishes.",
+        "choice_c": "Because their mother is busy making the cake.",
+        "choice_d": "Because their mother is on the phone.",
+        "answer": "B",
+        "img_id": "cookie_theft",
+        "category": "event_relationship"
+    },
+    {
+        "question": "Why did the water flow onto the ground?",
+        "choice_a": "The faucet was forgotten to be turned off.",
+        "choice_b": "The water in the kettle boiled and was forgotten to be taken off.",
+        "choice_c": "The faucet broke, and water splashed out.",
+        "choice_d": "The water is not flowing onto the ground.",
+        "answer": "A",
+        "img_id": "cookie_theft",
+        "category": "event_relationship"
+    },
+    {
+        "question": "What is the boy feeling?",
+        "choice_a": "Sorry.",
+        "choice_b": "Disappointed.",
+        "choice_c": "Cautious.",
+        "choice_d": "Curious.",
+        "answer": "C",
+        "img_id": "cookie_theft",
+        "category": "mental"
+    },
+    {
+        "question": "What is the girl's feeling?",
+        "choice_a": "Angry.",
+        "choice_b": "Bored.",
+        "choice_c": "Curious.",
+        "choice_d": "Happy.",
+        "answer": "D",
+        "img_id": "cookie_theft",
+        "category": "mental"
+    },
+    {
+        "question": "What is the woman's state of mind?",
+        "choice_a": "She is happy and excited.",
+        "choice_b": "She is daydreaming.",
+        "choice_c": "She is interested by the boy and the girl.",
+        "choice_d": "She is angry.",
+        "answer": "B",
+        "img_id": "cookie_theft",
+        "category": "mental"
+    },
+    {
+        "question": "Why is it said that the woman is daydreaming?",
+        "choice_a": "The water is overflowing from the sink.",
+        "choice_b": "The water in the kettle has boiled and overflowed.",
+        "choice_c": "The water in the woman's pot boiled over.",
+        "choice_d": "The woman is using a kettle to fetch water from the tap, but she hasn't aimed it properly at the tap, causing water to spill out.",
+        "answer": "A",
+        "img_id": "cookie_theft",
+        "category": "mental"
+    },
+    {
+        "question": "What will the boy do next?",
+        "choice_a": "Support the other boy.",
+        "choice_b": "Continue fetching the cookies.",
+        "choice_c": "Fall to the ground.",
+        "choice_d": "Give a cookie to his mother.",
+        "answer": "C",
+        "img_id": "cookie_theft",
+        "category": "next_event"
+    },
+    {
+        "question": "What is the role of the standing boy on the left?",
+        "choice_a": "A vet.",
+        "choice_b": "A magician.",
+        "choice_c": "A dog trainer.",
+        "choice_d": "A dog seller.",
+        "answer": "B",
+        "img_id": "9331ecd8bebe04fe51c65a8385db52e0",
+        "category": "character"
+    },
+    {
+        "question": "Why do we assume the boy on the left is pretending to be a magician?",
+        "choice_a": "Because there is a sign \"BOZO THE DANCING DOG\".",
+        "choice_b": "Because there is a sign \"BOZO THE TALKING DOG\".",
+        "choice_c": "Because there is a sign \"BOZO MAGIC SHOW\".",
+        "choice_d": "Because there is a sign \"BOZO THE MAGICAL DOG\".",
+        "answer": "B",
+        "img_id": "9331ecd8bebe04fe51c65a8385db52e0",
+        "category": "character"
+    },
+    {
+        "question": "What leads us to believe that the two boys are friends?",
+        "choice_a": "The boys are training their dog together.",
+        "choice_b": "A boy is performing magic, and the other boy is assisting him.",
+        "choice_c": "A boy is teaching the other boy how to perform magic tricks.",
+        "choice_d": "A boy is selling a dog, and the other boy is assisting him.",
+        "answer": "B",
+        "img_id": "9331ecd8bebe04fe51c65a8385db52e0",
+        "category": "character_relationship"
+    },
+    {
+        "question": "What are the boys doing?",
+        "choice_a": "Training their dog.",
+        "choice_b": "Performing magic.",
+        "choice_c": "Trying to sell the dog.",
+        "choice_d": "Participating in a dog show.",
+        "answer": "B",
+        "img_id": "9331ecd8bebe04fe51c65a8385db52e0",
+        "category": "event"
+    },
+    {
+        "question": "From the onlookers' perspective, where is the voice that's supposedly coming from the dog actually coming from?",
+        "choice_a": "From a radio hidden in the box under the dog.",
+        "choice_b": "From the boy with a hat.",
+        "choice_c": "From the magician practicing ventriloquism.",
+        "choice_d": "From the boy without a hat.",
+        "answer": "D",
+        "img_id": "9331ecd8bebe04fe51c65a8385db52e0",
+        "category": "event"
+    },
+    {
+        "question": "What is the boy without a hat doing?",
+        "choice_a": "He is secretly speaking.",
+        "choice_b": "He is using a horn to encourage people to come and watch their performance.",
+        "choice_c": "He is resting.",
+        "choice_d": "He is acting as an audience.",
+        "answer": "A",
+        "img_id": "9331ecd8bebe04fe51c65a8385db52e0",
+        "category": "event"
+    },
+    {
+        "question": "What magic tricks is the boy performing?",
+        "choice_a": "Make the dog talk.",
+        "choice_b": "Turn a dog into a person.",
+        "choice_c": "Turn a person into a dog.",
+        "choice_d": "We do not know.",
+        "answer": "A",
+        "img_id": "9331ecd8bebe04fe51c65a8385db52e0",
+        "category": "event"
+    },
+    {
+        "question": "What is the most probable reason for the boys pulling a string in front of the box?",
+        "choice_a": "To prevent people from stealing their things.",
+        "choice_b": "To prevent people from seeing the radio behind the box.",
+        "choice_c": "To prevent people from being bitten by the dog.",
+        "choice_d": "To prevent people from seeing the boy behind the box.",
+        "answer": "D",
+        "img_id": "9331ecd8bebe04fe51c65a8385db52e0",
+        "category": "event_relationship"
+    },
+    {
+        "question": "What is the reaction of the girl?",
+        "choice_a": "She is angry.",
+        "choice_b": "She is not interested.",
+        "choice_c": "She is scared.",
+        "choice_d": "She is surprised.",
+        "answer": "D",
+        "img_id": "9331ecd8bebe04fe51c65a8385db52e0",
+        "category": "mental"
+    },
+    {
+        "question": "Why is the girl surprised?",
+        "choice_a": "The boy was performing magic and suddenly produced a dog.",
+        "choice_b": "She found that this dog can walk on its hind legs.",
+        "choice_c": "She found that this dog can talk.",
+        "choice_d": "She found that this dog can shake hands with people.",
+        "answer": "C",
+        "img_id": "9331ecd8bebe04fe51c65a8385db52e0",
+        "category": "mental"
+    },
+    {
+        "question": "Why are the boys happy?",
+        "choice_a": "They are playing with their dog.",
+        "choice_b": "They are performing a magic trick.",
+        "choice_c": "They are training their dog.",
+        "choice_d": "A girl is feeding their dog.",
+        "answer": "B",
+        "img_id": "9331ecd8bebe04fe51c65a8385db52e0",
+        "category": "mental"
+    },
+    {
+        "question": "What hint in the image informs us that the boys are outside a baseball field?",
+        "choice_a": "There is a sign that says \"BASEBALL TODAY.\"",
+        "choice_b": "A baseball player is entering the field.",
+        "choice_c": "There is a sign that says \"BASEBALL FIELD.\"",
+        "choice_d": "There is a baseball player on the advertising billboard.",
+        "answer": "A",
+        "img_id": "7c6d5c0ab718407f677e6837b6a938d8",
+        "category": "location"
+    },
+    {
+        "question": "Where are the boys?",
+        "choice_a": "Outside a soccer field.",
+        "choice_b": "Outside a basketball court.",
+        "choice_c": "Outside a baseball field.",
+        "choice_d": "We do not know.",
+        "answer": "C",
+        "img_id": "7c6d5c0ab718407f677e6837b6a938d8",
+        "category": "location"
+    },
+    {
+        "question": "What is the role of the man in the picture?",
+        "choice_a": "A baseball coach.",
+        "choice_b": "A spectator watching the baseball game.",
+        "choice_c": "A delivery man for Pepsi Cola.",
+        "choice_d": "A delivery man for Coca Cola.",
+        "answer": "C",
+        "img_id": "7c6d5c0ab718407f677e6837b6a938d8",
+        "category": "character"
+    },
+    {
+        "question": "On what basis do we infer that the man is a delivery person for Pepsi Cola from the scene in the picture?",
+        "choice_a": "The man is unloading a box of Pepsi Cola from the truck.",
+        "choice_b": "The man is driving a truck with 'Pepsi Cola' written on it.",
+        "choice_c": "The man is drinking Pepsi Cola in front of a truck.",
+        "choice_d": "The man is wearing a uniform with 'Pepsi Cola' on it.",
+        "answer": "A",
+        "img_id": "7c6d5c0ab718407f677e6837b6a938d8",
+        "category": "character"
+    },
+    {
+        "question": "What are the boys doing by the wall?",
+        "choice_a": "Playing catch.",
+        "choice_b": "Playing with their dog.",
+        "choice_c": "Watching a baseball game.",
+        "choice_d": "Parking their bicycles.",
+        "answer": "C",
+        "img_id": "7c6d5c0ab718407f677e6837b6a938d8",
+        "category": "event"
+    },
+    {
+        "question": "What can we infer from the picture?",
+        "choice_a": "There's a baseball match happening inside the wall.",
+        "choice_b": "There's a football match happening inside the wall.",
+        "choice_c": "The boys are going to play baseball inside the wall.",
+        "choice_d": "The boys are going to cycle inside the wall.",
+        "answer": "A",
+        "img_id": "7c6d5c0ab718407f677e6837b6a938d8",
+        "category": "event"
+    },
+    {
+        "question": "What is the man doing?",
+        "choice_a": "He is delivering Coca Cola.",
+        "choice_b": "He is delivering Pepsi Cola.",
+        "choice_c": "He is a school bus driver.",
+        "choice_d": "He is delivering something but we do not know what it is.",
+        "answer": "B",
+        "img_id": "7c6d5c0ab718407f677e6837b6a938d8",
+        "category": "event"
+    },
+    {
+        "question": "What are the boys doing?",
+        "choice_a": "They are standing on something, sticking their heads above the wall, and watching a match inside the wall.",
+        "choice_b": "They are climbing the wooden wall to watching a match inside the wall.",
+        "choice_c": "They are playing with the dog by the wall.",
+        "choice_d": "They are watching a game through the gaps in the wall.",
+        "answer": "D",
+        "img_id": "7c6d5c0ab718407f677e6837b6a938d8",
+        "category": "event"
+    },
+    {
+        "question": "Why are the boys pressing their faces against the wall?",
+        "choice_a": "They are watching the football game in progress inside the field.",
+        "choice_b": "They are watching the baseball game in progress inside the field.",
+        "choice_c": "They are trying to find their lost ball inside the wall.",
+        "choice_d": "They are looking through the cracks in the wall at something, but we don't know what they are watching.",
+        "answer": "B",
+        "img_id": "7c6d5c0ab718407f677e6837b6a938d8",
+        "category": "event_relationship"
+    },
+    {
+        "question": "What does the man think of the boys' actions?",
+        "choice_a": "The man is annoyed by the boys.",
+        "choice_b": "The man thinks it is funny.",
+        "choice_c": "The man is puzzled by the boys.",
+        "choice_d": "The man is worried about the boys.",
+        "answer": "B",
+        "img_id": "7c6d5c0ab718407f677e6837b6a938d8",
+        "category": "mental"
+    },
+    {
+        "question": "What is the relationship between the people in the picture?",
+        "choice_a": "They are teacher and students.",
+        "choice_b": "They are mother and kids.",
+        "choice_c": "They are three siblings.",
+        "choice_d": "The girl is the boy's friend and she is visiting him.",
+        "answer": "B",
+        "img_id": "c47f1cd80074225a10353bf44043962d",
+        "category": "character_relationship"
+    },
+    {
+        "question": "What was the boy doing before he went for the shower?",
+        "choice_a": "Playing outside",
+        "choice_b": "Playing with the girl",
+        "choice_c": "Helping his mom with the housework",
+        "choice_d": "Sleeping",
+        "answer": "A",
+        "img_id": "c47f1cd80074225a10353bf44043962d",
+        "category": "event"
+    },
+    {
+        "question": "What is the woman doing?",
+        "choice_a": "She is is cooking.",
+        "choice_b": "She is washing the girl's clothes",
+        "choice_c": "She is washing the boy's clothes",
+        "choice_d": "She is washing her own clothes",
+        "answer": "C",
+        "img_id": "c47f1cd80074225a10353bf44043962d",
+        "category": "event"
+    },
+    {
+        "question": "What is the boy doing?",
+        "choice_a": "He is asking for a toy he can't reach.",
+        "choice_b": "Cleaning the floor.",
+        "choice_c": "He is helping his mom wash clothes.",
+        "choice_d": "He is asking for clothes.",
+        "answer": "D",
+        "img_id": "c47f1cd80074225a10353bf44043962d",
+        "category": "event"
+    },
+    {
+        "question": "Why is the mother washing clothes?",
+        "choice_a": "The boy just took off his dirty clothes.",
+        "choice_b": "The mother found a stain on her dress.",
+        "choice_c": "The mother is doing her regular laundry.",
+        "choice_d": "The girl spilled juice on her clothes.",
+        "answer": "A",
+        "img_id": "c47f1cd80074225a10353bf44043962d",
+        "category": "event_relationship"
+    },
+    {
+        "question": "Why is the girl cleaning the floor?",
+        "choice_a": "She spilled water on the floor.",
+        "choice_b": "She spilled her juice on the floor.",
+        "choice_c": "Her mom accidentally dirtied the floor.",
+        "choice_d": "The boy dirtied the floor.",
+        "answer": "D",
+        "img_id": "c47f1cd80074225a10353bf44043962d",
+        "category": "event_relationship"
+    },
+    {
+        "question": "Why is the girl looking at the boy?",
+        "choice_a": "The boy is making a funny face at the girl.",
+        "choice_b": "The boy dirtied the floor.",
+        "choice_c": "The boy took her favorite toy.",
+        "choice_d": "The boy is playing with water.",
+        "answer": "B",
+        "img_id": "c47f1cd80074225a10353bf44043962d",
+        "category": "event_relationship"
+    },
+    {
+        "question": "What is the girl's current mood?",
+        "choice_a": "Happy.",
+        "choice_b": "Angry.",
+        "choice_c": "Sad.",
+        "choice_d": "Relaxed.",
+        "answer": "B",
+        "img_id": "c47f1cd80074225a10353bf44043962d",
+        "category": "mental"
+    },
+    {
+        "question": "Why is the girl angry at the boy?",
+        "choice_a": "The boy dirtied the floor.",
+        "choice_b": "The boy was making too much noise and disrupting her.",
+        "choice_c": "The boy was playing loudly in the bathroom.",
+        "choice_d": "The boy threw his wet towel on the floor she had just cleaned.",
+        "answer": "A",
+        "img_id": "c47f1cd80074225a10353bf44043962d",
+        "category": "mental"
+    },
+    {
+        "question": "What is the mother likely to do next?",
+        "choice_a": "The mother will find a set of clean clothes for the boy.",
+        "choice_b": "The mother will ask the boy to wash his own dirty clothes.",
+        "choice_c": "The mother will continue cooking.",
+        "choice_d": "The mother will criticize the girl.",
+        "answer": "A",
+        "img_id": "c47f1cd80074225a10353bf44043962d",
+        "category": "next_event"
+    },
+    {
+        "question": "Why will the mother provide clothes to the boy next?",
+        "choice_a": "The boy was painting and stained his clothes.",
+        "choice_b": "The boy has just taken a shower.",
+        "choice_c": "The boy tore his clothes while playing with the dog.",
+        "choice_d": "The boy has finished eating and spilled food on himself.",
+        "answer": "B",
+        "img_id": "c47f1cd80074225a10353bf44043962d",
+        "category": "next_event"
+    }
+]

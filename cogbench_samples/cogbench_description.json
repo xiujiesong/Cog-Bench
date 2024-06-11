@@ -1,0 +1,258 @@
+{
+  "cookie_theft": {
+    "Image Name": "cookie_theft.jpg",
+    "Entities": [
+      "woman",
+      "boy",
+      "girl",
+      "cookie",
+      "jar",
+      "dish",
+      "faucet",
+      "sink",
+      "water",
+      "apron",
+      "stool",
+      "window",
+      "curtain",
+      "cloth",
+      "cabinet",
+      "cup",
+      "tree",
+      "bushes",
+      "floor"
+    ],
+    "Special Time Reasoning": [
+      "None"
+    ],
+    "Location Reasoning": [
+      "The woman is washing dishes. + There is a sink and cabinets. -> The people are in the kitchen."
+    ],
+    "Character Reasoning": [
+      "None"
+    ],
+    "Character Relationship Reasoning": [
+      "A woman, a boy and a girl are in a kitchen. -> The woman is the mother of the boy and the girl."
+    ],
+    "Event Reasoning": [
+      "The woman is washing dishes. + The boy and the girl are standing behind the woman. + The boy is standing on a stool, reaching for the cookie jar in the cupboard. + The girl standing by the boy is shushing him. + The girl standing by the boy is reaching out to take the cookie the boy is handing her. -> The boy and the girl are stealing cookies."
+    ],
+    "Event Relationship Reasoning": [
+      "The woman is busy washing dishes. + The woman is daydreaming. + The faucet is turned on. -> Water is flowing out of the sink.",
+      "The woman is busy washing dishes. -> The boy and the girl are stealing cookies."
+    ],
+    "Next Moment Event Reasoning": [
+      "The boy is standing on a stool. + The stool is tilting. -> The boy is about to fall."
+    ],
+    "Mental State Reasoning": [
+      "The woman is washing dishes. + Water is flowing out of the sink. -> The woman is daydreaming.",
+      "The boy and the girl are stealing cookies. + The girl is smiling. -> The boy and the girl are happy.",
+      "The boy and the girl are stealing cookies. + The girl standing by the boy is shushing the boy. -> The boy and the girl are cautious."
+    ],
+    "Description": [
+      "The scene is in the kitchen, where three people are present: a boy, a girl, and a woman. The woman is likely the mother. The boy is standing on a stool to reach for cookies in the cookie jar high up in the cabinet. The girl is standing on the ground next to the boy, reaching out to take the cookie he is handing her. The stool the boy is standing on is slightly tilted, and the boy is about to fall. The girl is shushing him and smiling. They are standing behind the mother and stealing cookies. They are happy and cautious. The mother, wearing an apron, is standing sideways in front of the sink. She is washing dishes using a piece of cloth. The faucet is left running, causing water to overflow onto the floor. However, the mother seems somewhat absent-minded, possibly lost in thought, and hasn't noticed the running faucet or the water on the floor. There are also two cups and a plate on the table. There are curtains hanging above the window. Looking through the window, we can see another house, as well as a tree and some bushes in the distance."
+    ]
+  },
+  "9331ecd8bebe04fe51c65a8385db52e0": {
+    "Image Name": "9331ecd8bebe04fe51c65a8385db52e0.jpg",
+    "Entities": [
+      "boy",
+      "girl",
+      "dog",
+      "box",
+      "sign",
+      "straw hat",
+      "string",
+      "black top hat",
+      "tuxedo",
+      "paper",
+      "horn"
+    ],
+    "Special Time Reasoning": [
+      "None"
+    ],
+    "Location Reasoning": [
+      "None"
+    ],
+    "Character Reasoning": [
+      "A boy is wearing a black top hat and a tuxedo. + There is a dog sitting on a box. + A piece of paper is pasted on the box, and it says 'BOZO THE TALKING DOG' on it. + The boy is sitting in the box holding a horn. -> The boy wearing a black top hat and a tuxedo is pretending to be a magician."
+    ],
+    "Character Relationship Reasoning": [
+      "A boy is wearing a black top hat and a tuxedo. + There is a dog sitting on a box. + A piece of paper is pasted on the box, and it says 'BOZO THE TALKING DOG' on it. + The boy is sitting in the box holding a horn. -> The boys are friends."
+    ],
+    "Event Reasoning": [
+      "A boy is wearing a black top hat and a tuxedo. + There is a dog sitting on a box. + A piece of paper is pasted on the box, and it says 'BOZO THE TALKING DOG' on it. + The boy is sitting in the box holding a horn. -> A boy is performing a magic trick.",
+      "A boy is wearing a black top hat and a tuxedo. + There is a dog sitting on a box. + A piece of paper is pasted on the box, and it says 'BOZO THE TALKING DOG' on it. + The boy is sitting in the box holding a horn. -> The boy claims that his dog can talk.",
+      "A boy is wearing a black top hat and a tuxedo. + There is a dog sitting on a box. + A piece of paper is pasted on the box, and it says 'BOZO THE TALKING DOG' on it. + The boy is sitting in the box holding a horn. -> A boy is hiding in the box.",
+      "A boy is wearing a black top hat and a tuxedo. + There is a dog sitting on a box. + A piece of paper is pasted on the box, and it says 'BOZO THE TALKING DOG' on it. + The boy is sitting in the box holding a horn. -> The boy in the box is secretly speaking, making it seem like the dog is talking."
+    ],
+    "Event Relationship Reasoning": [
+      "A boy is performing a magic trick to make the dog talk. + A boy is hiding in the box and secretly speaking, making it seem like the dog is talking. -> The boys pulled a string in front of the box to prevent people from seeing the boy behind the box."
+    ],
+    "Next Moment Event Reasoning": [
+      "None"
+    ],
+    "Mental State Reasoning": [
+      "The boys are performing a magic trick to make the dog talk. + The boy hiding in the box is secretly speaking, making it seem like the dog is talking. -> The girl is surprised.",
+      "The boys are performing a magic trick to make the dog talk. + The boy hiding in the box is secretly speaking, making it seem like the dog is talking. + The girl is surprised. + Boys are smiling. -> The boys are excited."
+    ],
+    "Description": [
+      "A boy is wearing a black top hat and a tuxedo. There is a dog sitting on a box. A piece of paper is pasted on the box, and it says 'BOZO THE TALKING DOG' on it. The other boy is sitting in the box holding a horn. They are good friends and are performing a magic trick to make the dog talk. The boy wearing a black top hat and a tuxedo is pretending to be a magician. He claims that his dog can talk. The boy hiding in the box is secretly speaking, making it seem like the dog is talking. In front of the box, there is a pulled string. The boys pulled the string to prevent people from seeing the boy behind the box. A girl holding a hat is watching the dog, and she is surprised. Boys are smiling and excited. There is also a straw hat on the ground."
+    ]
+  },
+  "7c6d5c0ab718407f677e6837b6a938d8": {
+    "Image Name": "7c6d5c0ab718407f677e6837b6a938d8.jpg",
+    "Entities": [
+      "boys",
+      "man",
+      "dog",
+      "truck",
+      "Pepsi cola",
+      "bicycle",
+      "boxes",
+      "trees",
+      "sign",
+      "wooden wall",
+      "road"
+    ],
+    "Special Time Reasoning": [
+      "None"
+    ],
+    "Location Reasoning": [
+      "There is a sign on the wall that says \"BASEBALL TODAY.\" -> It is outside of a baseball field."
+    ],
+    "Character Reasoning": [
+      "A truck is parked on the roadside by the baseball field, and it has 'Pepsi Cola' written on it. + There are many boxes on the truck. + A man is moving a box of Pepsi by the side of a truck. -> The man is a delivery man of the Pepsi Cola."
+    ],
+    "Character Relationship Reasoning": [
+      "None"
+    ],
+    "Event Reasoning": [
+      "There is a sign on the wall that says \"BASEBALL TODAY.\" -> Inside the baseball field, a baseball game is in progress.",
+      "Inside the baseball field, a baseball game is in progress. + Two boys are pressing their faces against the gaps in a wooden wall. -> The two boys are peeking at the baseball game through the gaps in the wall.",
+      "A truck is parked on the roadside by the baseball field, and it has 'Pepsi Cola' written on it. + There are many boxes on the truck. + A man is carrying one of the boxes. -> The man is delivering Pepsi Cola."
+    ],
+    "Event Relationship Reasoning": [
+      "Inside the baseball field, a baseball game is in progress. -> The two boys are peeking at the baseball game through the gaps in the wall."
+    ],
+    "Next Moment Event Reasoning": [
+      "None"
+    ],
+    "Mental State Reasoning": [
+      "The two boys are peeking at the baseball game through the gaps in the wall. + A man is looking at them and smiling. -> The man thinks it is funny."
+    ],
+    "Description": [
+      "Two boys are pressing their faces against the gaps in a wooden wall. There is a sign on the wall that says \"BASEBALL TODAY\", indicating it is at the outside of a baseball field and a baseball game is in progress inside the baseball field. Thus, they are peeking at the baseball game through the gaps in the wall. One of the boy is standing on a box and the other is sitting on a bicycle. A dog is sitting behind them and looking at them. A truck is parked on the roadside by the baseball field, and it has 'Pepsi Cola' written on it. There are many boxes of Pepsi on the truck. The truck driver is carrying one box of Pepsi. He is delivering Pepsi Cola. He is looking at the boys and smiling. He may think it is funny. There are some trees behind them."
+    ]
+  },
+  "c47f1cd80074225a10353bf44043962d": {
+    "Image Name": "c47f1cd80074225a10353bf44043962d.jpg",
+    "Entities": [
+      "Boy",
+      "girl",
+      "woman",
+      "dog",
+      "washing machine",
+      "clothes",
+      "shoes",
+      "apron",
+      "bucket",
+      "sponge",
+      "rag",
+      "shower",
+      "showerhead",
+      "water",
+      "shoeprints",
+      "dog paw prints",
+      "floor"
+    ],
+    "Special Time Reasoning": [
+      "None"
+    ],
+    "Location Reasoning": [
+      "None"
+    ],
+    "Character Reasoning": [
+      "None"
+    ],
+    "Character Relationship Reasoning": [
+      "It is in a house. + There is a woman, a boy and a girl. -> The woman is the mother of the boy and the girl."
+    ],
+    "Event Reasoning": [
+      "A boy, not dressed, is peeking out from the shower. + The showerhead is spraying water. + A dog is also with the boy. -> The boy and the dog were just taking a shower. ",
+      "The boy and the dog was just taking a shower. + Outside the bathroom, there is a pair of dirty shoes, many shoeprints, and dog paw prints. -> The boy and the dog just came back from playing outside, and dirtied the floor.",
+      "The boy and the dog was just taking a shower. + Outside the bathroom, there is a pair of dirty shoes, many shoeprints, and dog paw prints. -> The boy and the dog took off his dirty clothes and shoes, and went to take a shower after coming back.",
+      "The boy just came back from playing outside, took off his dirty clothes and shoes, and went to take a shower. + A woman is putting a piece of clothing into the washing machine. -> The woman is washing the dirty clothes that the boy took off.",
+      "A boy, not dressed, is peeking out from the shower. + He is looking at her mother. -> The boy is asking his mother for clothes.",
+      "There is a bucket of water and a sponge near the girl. + The girl is wiping the floor with a rag.+ Outside the bathroom, there is a pair of dirty shoes, many shoeprints, and dog paw prints. -> The girl is wiping the floor that the boy dirtied."
+    ],
+    "Event Relationship Reasoning": [
+      "The boy and the dog came back from outside and were dirty. -> The boy and the dog are taking shower.",
+      "The boy and the dog just came back from playing outside, took off his dirty clothes and shoes, and went to take a shower. -> The woman is washing the dirty clothes that the boy took off.",
+      "The boy and the dog were just taking a shower. + The woman is washing the dirty clothes that the boy took off. -> The boy is asking his mother for clothes.",
+      "The boy and the dog just came back from playing outside, they dirtied the floor. -> The girl is wiping the floor that the boy dirtied. ",
+      "The boy and the dog just came back from playing outside, they dirtied the floor. + The girl is wiping the floor that the boy dirtied. + The boy stretched his foot out of the bath after washing, and dirtied the floor again. -> The girl is staring at the boy."
+    ],
+    "Next Moment Event Reasoning": [
+      "The boy and the dog were just taking a shower. + The boy is asking his mother for clothes. -> The mother will find a set of clean clothes for the boy to change into."
+    ],
+    "Mental State Reasoning": [
+      "The boy and the dog just came back from playing outside, they dirtied the floor. + The girl is wiping the floor that the boy dirtied. + The boy stretched his foot out of the bath after washing, and dirtied the floor again. + The girl stares at the boy and frowns. -> The girl is angry."
+    ],
+    "Description": [
+      "In a house, a naked boy is peeking out from the shower. The showerhead is spraying water. His pet dog is also with the boy. They were just taking a shower. Outside the bathroom, there is a pair of dirty shoes, many shoeprints, and dog paw prints. We can infer that the boy and the dog just came back from playing outside, they dirtied the floor. The boy took off his dirty clothes and shoes, and went to take a shower. The mother wearing an apron is putting a piece of clothing into the washing machine. She is probably washing the dirty clothes that the boy took off. The boy has finished taking a bath and is asking his mother for clothes. A girl, perhaps the sister of the boy, is wiping the floor with a rag. There is a bucket of water and a sponge near the girl. She is wiping the floor that the boy dirtied. Because the boy stretched his foot out of the bath after washing, and dirtied the floor again, the girl is angrily staring at the boy."
+    ]
+  },
+  "490b03b120225834b6dcf4dace58f0cd": {
+    "Image Name": "490b03b120225834b6dcf4dace58f0cd.jpg",
+    "Entities": [
+      "men",
+      "woman",
+      "cars",
+      "tickets",
+      "building",
+      "billboard",
+      "road",
+      "clock",
+      "steering wheel",
+      "uniform"
+    ],
+    "Special Time Reasoning": [
+      "The clock on the car shows it is 2:25. + It is daytime. -> It is 2:25 pm."
+    ],
+    "Location Reasoning": [
+      "There is a billboard that says 'FOOTBALL 2PM'. + In front, there is a tall circular building. -> It is in front of a stadium."
+    ],
+    "Character Reasoning": [
+      "A man wearing a police uniform is standing on the road side. -> The man is police officer."
+    ],
+    "Character Relationship Reasoning": [
+      "A man and a woman are sitting on a car. -> The man and the woman sitting in the car are a couple."
+    ],
+    "Event Reasoning": [
+      "There are many cars on the road. + A police officer is standing by the road. + A man is standing next to a car, talking to a police officer. + A man is leaning his arms on the steering wheel, looking at a woman. -> There is a traffic jam.",
+      "There is a billboard that says 'FOOTBALL 2PM'. + There is a stadium. + The man is holding two tickets. + It is 2:25 pm. -> Inside the stadium, a football match is taking place. ",
+      "There is a billboard that says 'FOOTBALL 2PM'. + There is a stadium. + The man is holding two tickets. + The woman is looking at the man and pointing at the clock. + It is 2:25 pm. -> The man and the woman in the car are here to watch the football game but they are late. ",
+      "There is a traffic jam. + A man is standing next to a car, talking to a police officer. + He is pointing at the road. -> A man is arguing with the police, trying to convince him to ease the traffic.",
+      "There is a traffic jam. + A man is standing next to a car, talking to a police officer. + He is pointing at the road. + He is arguing with the police, trying to convince him to ease the traffic. + The police officer spreads both hands. -> Traffic congestion is so severe that the police officer has no way to clear the traffic.",
+      "There is a billboard that says 'FOOTBALL 2 PM'. + There is a stadium. + The man is holding two tickets. + The woman is furrowing her brows while looking at the man and pointing at the clock. + It is 2:25 pm. -> The woman in the car is complaining to the man."
+    ],
+    "Event Relationship Reasoning": [
+      "There is a traffic jam. -> A man is arguing with the police, trying to convince him to ease the traffic.",
+      "Traffic congestion is too severe. -> The police officer has no way to clear the traffic.",
+      "There is a traffic jam outside the stadium. -> People on the road are unable to enter the stadium on time to watch the game.",
+      "There is a traffic jam outside the stadium. + The man and the woman in the car are unable to enter the stadium on time to watch the game. -> The woman is complaining to the man."
+    ],
+    "Next Moment Event Reasoning": [
+      "None"
+    ],
+    "Mental State Reasoning": [
+      "There is a traffic jam. + A man is arguing with the police, trying to convince him to ease the traffic. -> The man standing by the police officer is angry and loses his patience.",
+      "There is a traffic jam outside the stadium. + They are unable to enter the stadium on time to watch the game. + The woman is complaining to the man. -> The woman sitting in the car is disappointed.",
+      "There is a traffic jam outside the stadium. + They are unable to enter the stadium on time to watch the game. + The woman is complaining to the man. + The man is looking at the woman with smile. -> The man sitting in the car is calm."
+    ],
+    "Description": [
+      "There are many cars on the road. A police officer wearing a police uniform is standing by the road. There is a traffic jam. A man is standing next to a car, talking to the police officer. He is arguing with him, trying to convince him to ease the traffic. He is angry and loses his patience. The police officer spreads both hands, indicating the traffic congestion is so severe that he has no way to clear the traffic. A man standing in front of this man is stretching beside the car. Another man is leaning his arms on the steering wheel, looking at a woman in the car. He is holding two tickets. There is a billboard that says 'FOOTBALL 2PM' by the side of the road. There is a stadium in front. However the clock on the car shows it is 2:25 pm, indicating a football match is taking place inside the stadium. The man and the woman are here to watch the game but they are late. They are unable to enter the stadium on time to watch the game. Thus, the woman is furrowing her brows while looking at the man and pointing at the clock. She is complaining to the man and feels disappointed. The man is looking at the woman with smile. He is calm."
+    ]
+  }
+}
