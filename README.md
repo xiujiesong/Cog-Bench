@@ -164,7 +164,7 @@ If you find our work interesting, please feel free to cite our paper:
 
 ```
 @article{song2024cognitive,
-  title={A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision Language Models},
+  title={A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models},
   author={Song, Xiujie and Wu, Mengyue and Zhu, Kenny Q and Zhang, Chunhao and Chen, Yanyi},
   journal={arXiv preprint arXiv:2402.18409},
   year={2024}
